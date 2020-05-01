@@ -5,7 +5,7 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    componet: web
+    component: web
   ports:
   - port: 3000
     targetPort: 3000
